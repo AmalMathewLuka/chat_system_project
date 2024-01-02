@@ -1,0 +1,16 @@
+#messages{
+    height: 600px;
+    max-height: 600px;
+    overflow: auto;
+    scroll-behavior: smooth;
+    
+}
+.chatmsg
+{
+   margin: 10px;
+   padding: 10px;
+   display: block;
+   width: fit-content;
+    
+}
+
